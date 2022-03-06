@@ -1,0 +1,12 @@
+create channel [done]
+join to a channel [done]
+add member [done]
+leave a channel [done]
+update password channel [done]
+add admin to a channel [done]
+
+
+get channel
+create message
+get all messages for a channel
+
